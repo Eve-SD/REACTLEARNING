@@ -1,0 +1,1 @@
+In this project we will learn react and the core concept
